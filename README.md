@@ -26,6 +26,10 @@ Cette application interactive fournit une visualisation claire du processus de r
 - Tailwind CSS pour le style
 - Framework Next.js
 
+## Démonstration en Direct
+
+Découvrez la démonstration en action : [https://react-principe-reconciliation.vercel.app/](https://react-principe-reconciliation.vercel.app/)
+
 ## Pour Commencer
 
 1. Cloner le dépôt
