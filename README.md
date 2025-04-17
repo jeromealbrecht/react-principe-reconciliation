@@ -2,7 +2,7 @@
 
 Une démonstration professionnelle du processus de réconciliation de React, visualisant comment React met à jour efficacement le DOM grâce à son implémentation du DOM Virtuel.
 
-![Preview de la démonstration de réconciliation React](https://react-principe-reconciliation.vercel.app/rc-preview.png)
+![Preview de la démonstration de réconciliation React](https://react-keys-one.vercel.app/rc-preview.png)
 
 ## Aperçu
 
